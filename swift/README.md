@@ -12,7 +12,7 @@ To build:
 brew install carthage swiftlint
 
 # Install dependencies
-carthage bootsrap
+carthage bootstrap
 
 # Run in XCode.
 open XpringKit.xcodeproj
